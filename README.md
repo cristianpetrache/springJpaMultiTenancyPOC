@@ -1,1 +1,1 @@
-# springJpaMultiTenancyPOC
+# POC for spring xsuaa jpa multi-tenancy in SAP CF
