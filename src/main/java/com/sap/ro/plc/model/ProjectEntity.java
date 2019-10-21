@@ -10,7 +10,7 @@ import javax.persistence.TemporalType;
 import java.util.Calendar;
 import java.util.UUID;
 
-@Entity(name = "t_entity")
+@Entity(name = "t_project")
 public class ProjectEntity {
 
     private UUID id;
