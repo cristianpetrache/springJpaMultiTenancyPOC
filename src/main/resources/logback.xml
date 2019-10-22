@@ -1,6 +1,6 @@
 <configuration debug="false" scan="false">
 
-    <property name="logPattern" value="%d{HH:mm:ss.SSS} [correlation_id] [%-5.5level] [%-40.40logger{20}] - %msg%n" />
+    <property name="logPattern" value="%d{HH:mm:ss.SSS} [%-5.5level] [%-40.40logger{20}] - %msg%n" />
 
     <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
